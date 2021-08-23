@@ -10,6 +10,6 @@ branches:
 deploy:
   provider: heroku
   edge: true
-  app: myApp
+  app: likesteamapp
   api_key:
     secure: TKwXXrES5f+kKXJu3x9XayNFbZV6HqmweY87Gvd3f+XZTKQtKKjVpxCvQi7LIAdAiW/z++yBiOJ/2J4YxOa+er6a0iTs255ec+qqDc31bXErDyV6LKcnnWW1PBDd2dJSZCYBnLW3EhL3qhTao2ewTuHuUAJPDWY5g44YnKxt58hNlA6+HX1sX9m+tNaeFgN/djT+kT+S/i9CApzBRjzrai0e1LTwR0ssKqKOGPYNHWeOJK3CpV4DQwb1czdLYZ3VPpBeTallweeM2+IErpgnnwcrVI/V8QmWlGIXRY/yRIoLKTse6CO6/YWmRlhIClLl/BzWuJDc5nOoGvjNzC4qgo3HxXvWduoL0r+nJkb3WAWjehvgqZNaHSJXN148bOWaBNNhQq+y+bTn2QGBrKKH35Xx1GJkAGNI5oq2L+uvwB57Eh27lCQ979SRQDaAi+eFfn6J4wFWWZkD/3MUnhQyBjHCsbWmclXbFQciEeVbXJzpxNsliqZXYf1odoshPoMVT1Xx/gJvnC+N1zMqeYjyuMHiDVI5MTsFYiT6UNT8GCE5rRKuZz9IBSlcvfTfJKyvKqsUo5Wbn1Nd4bgNmqDi1ZeOFF/iH25DzqSJXBwluBARfNxsSEmjIseKuIuXnF1unpvoscQErhKX3ByULcmYnGT+PM667NGuLmCBENN0Af0=
